@@ -1,0 +1,34 @@
+var frame = $("main");
+
+window.onload = function() {
+	$("b1").observe("click", setCalc);
+	$("b2").observe("click", setDetector);
+	$("b3").observe("click", setCarousel);
+	$("b4").observe("click", setCall);
+	$("b5").observe("click", setPig);
+	$("b6").observe("click", setBoxes);
+}
+
+function setCalc(){
+	$("main").setAttribute('src','calculator.html');
+}
+
+function setDetector(){
+	$("main").setAttribute('src','detector.html');
+}
+
+function setCarousel(){
+	$("main").setAttribute('src','carousel.html');	
+}
+
+function setCall(){
+	$("main").setAttribute('src','call.html');		
+}
+
+function setPig(){
+	$("main").setAttribute('src','pig.html');		
+}
+
+function setBoxes(){
+	$("main").setAttribute('src','boxes.html');		
+}

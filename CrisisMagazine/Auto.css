@@ -1,0 +1,110 @@
+body{
+	/*background:none transparent;*/
+	background:rgba(0,0,0,0.9);
+}
+
+.ImagesDiv{
+	width: 1200px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+#CrisisImages{
+	height: 400px;
+	width: 300px;
+	padding: 40px;
+}
+.CrisisExamples{
+	height: 800px;
+	width: 550px;
+	padding: 20px;
+}
+
+#head{
+	color: white;
+}
+
+.video{
+	height: 450px;
+	width: 650px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+}
+
+#banner{
+	text-align: center; 
+	background-image: url("cotton11.jpg");
+	color: white;
+	font-size: 40pt;
+	/*height: 150px;*/
+	vertical-align: bottom;
+}
+ 
+nav {
+	text-align: center;
+	background-color: transparent;
+}
+
+p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	color: white;
+	font-size: 17pt;
+	font-family: TimesNewRoman;
+}
+
+button{
+	width: 16%;
+	margin-top: 5px;
+	margin-bottom: 25px;
+	font-size: 15pt;
+	color: white;
+	background-color: black;
+}
+
+iframe{
+	width: 85%;
+	height: 1000px; 
+}
+
+#welcome{
+	font-weight: bold;
+	font-size: 20pt;
+}
+
+h1{
+	font-size: 30pt;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+
+h2{
+	font-size: 25pt;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+
+#FinePrint{
+	font-size: 15pt;
+	text-align: center;
+	color: white;
+}
+
+ul{
+	font-size: 20pt;
+	color: white;
+	line-height: 45px;
+}
+
+#Dubois{
+	height:450px;
+	width: 350px;
+	padding-top: 45px;
+	padding-left: 475px;
+	padding-right: 450px;
+}

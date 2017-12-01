@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Common</title>
+	<link rel="stylesheet" type="text/css" href="Auto.css" />
+	<script src="processing.js"></script>
+	<script type="text/javascript" src="prototype.js"></script>
+	<script type="text/javascript" src="Auto.js"></script>
+</head>
+<body>
+	<h1>The Common Perception</h1>
+	<canvas data-processing-sources="perception.pde"></canvas>
+	<p>
+		Why am I doing this??????
+	</p>
+</body>
+</html>

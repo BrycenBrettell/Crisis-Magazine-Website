@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="Auto.css" />
+	<script type="text/javascript" src="prototype.js"></script>
+	<script type="text/javascript" src="Auto.js"></script>
+</head>
+<body>
+	<h1>The Purpose</h1>
+	<p><pre>
+		       Why am I doing this??????
+		      dfds
+		</pre>
+	</p>
+</body>
+</html>
